@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...@AICE
 - 💞️ I’m looking to collaborate on ...Web development
 - 📫 How to reach me ...brianmbethe84@gmail.com
-- 😄 Pronouns: ...Livity
+- 😄 Pronouns: ...He/him
 - ⚡ Fun fact: ...im a tech addict
 
 <!---
